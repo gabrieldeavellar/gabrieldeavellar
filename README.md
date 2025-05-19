@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Gabriel de Avellar
+
+Analista de Sistemas com experiência em infraestrutura, desenvolvimento e manutenção de soluções tecnológicas robustas. Apaixonado por tecnologia, inovação e boas práticas de desenvolvimento.
+
+## 💼 Tecnologias e Ferramentas
+
+- **Linguagens:** Java, JavaScript
+- **Frameworks:** React
+- **Sistemas Operacionais:** Linux, Windows
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/gabrieldeavellar/)
+
+---
 
 <!--
-**gabrieldeavellar/gabrieldeavellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus repositórios e conectar-se comigo.
 -->
