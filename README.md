@@ -5,7 +5,7 @@ Analista de Sistemas com experiência em infraestrutura, desenvolvimento e manut
 ## 💼 Tecnologias e Ferramentas
 
 - **Linguagens:** Java, JavaScript
-- **Frameworks:** React
+- **Frameworks:** React Native
 - **Sistemas Operacionais:** Linux, Windows
 
 ## 📫 Contato
